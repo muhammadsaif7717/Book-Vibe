@@ -1,0 +1,146 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "Echoes of Eternity",
+    "author": "Isabella Fitzgerald",
+    "image": "https://i.postimg.cc/ZRD9dYs9/11734660-4824032.jpg",
+    "review": "A captivating story of love and loss set against the backdrop of the glamorous yet tumultuous era of the roaring twenties.",
+    "totalPages": 312,
+    "rating": 4.5,
+    "category": "Classic Fiction",
+    "tags": [
+      "Romance",
+      "Drama"
+    ],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1927
+  },
+  {
+    "bookId": 2,
+    "bookName": "Whispers in the Moonlight",
+    "author": "Emily Harper",
+    "image": "https://i.postimg.cc/50fXR4t0/1266954-157.jpg",
+    "review": "A timeless tale that explores the themes of racial injustice, compassion, and moral growth in the Deep South of the 1930s.",
+    "totalPages": 376,
+    "rating": 4.8,
+    "category": "Classic Fiction",
+    "tags": [
+      "Drama",
+      "Romance"
+    ],
+    "publisher": "J. Lippincott",
+    "yearOfPublishing": 1959
+  },
+  {
+    "bookId": 3,
+    "bookName": "New World Order",
+    "author": "G. Orville",
+    "image": "https://i.postimg.cc/DzYxnwSC/26560122-7188504.jpg",
+    "review": "A chilling dystopian novel that serves as a stark warning against the dangers of totalitarianism and the erosion of individual freedoms.",
+    "totalPages": 352,
+    "rating": 4.7,
+    "category": "Science Fiction",
+    "tags": [
+      "Dystopian",
+      "Politics"
+    ],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1950
+  },
+  {
+    "bookId": 4,
+    "bookName": "Prejudices and Principles",
+    "author": "Josephine Austin",
+    "image": "https://i.postimg.cc/7YJ6Hsfw/13834447-5350686.jpg",
+    "review": "A delightful romantic comedy that offers sharp social commentary and explores the complexities of love, marriage, and societal expectations.",
+    "totalPages": 292,
+    "rating": 4.6,
+    "category": "Classic Fiction",
+    "tags": [
+      "Romance",
+      "Comedy"
+    ],
+    "publisher": "T. Egerton",
+    "yearOfPublishing": 1812
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Lost Generation",
+    "author": "J.D. Spencer",
+    "image": "https://i.postimg.cc/wvjcy8m1/13164157-5171295.jpg",
+    "review": "An iconic coming-of-age novel that captures the disillusionment and alienation of adolescence in post-war America with raw honesty and authenticity.",
+    "totalPages": 240,
+    "rating": 4.4,
+    "category": "Modern Fiction",
+    "tags": [
+      "Romance",
+      "Dystopian"
+    ],
+    "publisher": "Brown & Company",
+    "yearOfPublishing": 1952
+  },
+  {
+    "bookId": 6,
+    "bookName": "Wizardry and the Stone of Wisdom",
+    "author": "J.K. Robinson",
+    "image": "https://i.postimg.cc/x1xbxspm/6404272-3287119.jpg",
+    "review": "A magical adventure that enchants readers of all ages, inviting them into a world of wonder, friendship, and the eternal struggle between good and evil.",
+    "totalPages": 336,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": [
+      "Magic",
+      "Friendship"
+    ],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1996
+  },
+  {
+    "bookId": 7,
+    "bookName": "The Enigma of Silence",
+    "author": "M. Clarke",
+    "image": "https://i.postimg.cc/tC0prMg9/890392-2856.jpg",
+    "review": "In 'The Silent Witness,' Mary Higgins Clark weaves a suspenseful tale of murder and betrayal, keeping readers guessing until the very end.",
+    "totalPages": 352,
+    "rating": 4.7,
+    "category": "Mystery",
+    "tags": [
+      "Suspense",
+      "Thriller"
+    ],
+    "publisher": "Simon & Schuster",
+    "yearOfPublishing": 2019
+  },
+  {
+    "bookId": 8,
+    "bookName": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "image": "https://i.postimg.cc/GhzgB4V6/8865905-25864.jpg",
+    "review": "Step into 'The Night Circus' and lose yourself in a mesmerizing world of magic, mystery, and love, where dreams come to life under the flickering lights of the circus tents.",
+    "totalPages": 400,
+    "rating": 4.5,
+    "category": "Fantasy",
+    "tags": [
+      "Magic",
+      "Romance"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 9,
+    "bookName": "The Passenger",
+    "author": "Pamela Hawke",
+    "image": "https://i.postimg.cc/P5PyP2m8/959801-4739.jpg",
+    "review": "A gripping psychological thriller that navigates the blurred lines between truth and deception, leaving readers questioning the reliability of memory and perception.",
+    "totalPages": 352,
+    "rating": 4.3,
+    "category": "Thriller",
+    "tags": [
+      "Psychological",
+      "Suspense"
+    ],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2016
+  }
+]
